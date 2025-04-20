@@ -1,4 +1,4 @@
-@echo off
+@echo off 
 ::  optimize_usb.cmd  -  PC- und USB-Optimierung  (18 Apr 2025)
 ::  ----------------------------------------------------------
 ::  - prüft & repariert C: plus alle USB-Laufwerke (DriveType 2)
