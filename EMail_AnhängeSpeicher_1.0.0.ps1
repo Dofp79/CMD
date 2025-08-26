@@ -4,7 +4,6 @@
 # Überprüft, ob das USB-Laufwerk verfügbar ist → Falls nicht, wird das Skript gestoppt.
 # Überprüft vor dem Speichern, ob die Datei bereits existiert.
 # Speichert Anhänge im Ordner:
-# D:\TASCHENBOX_052024\Patrick Dokumente\GrundSchulerFoto
 
 # USB-Laufwerk prüfen
 $UsbPath = „Beliebige Speicher”
