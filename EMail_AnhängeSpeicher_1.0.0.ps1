@@ -2,7 +2,7 @@
 # Aktualisiertes Skript: Überprüfung, ob USB verfügbar ist
 # Speichert E-Mail-Anhänge von beliebige Email
 # Überprüft, ob das USB-Laufwerk verfügbar ist Falls nicht, wird das Skript gestoppt.
-# Überprüft vor dem Speichern, ob die Datei bereits existiert.
+# Überprüft vor dem Speichern, ob die Datei bereits existiert. 
 # Speichert Anhänge im „beliebige Verzeichnisse”
 
 Add-Type -AssemblyName System.Windows.Forms
